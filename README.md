@@ -4,4 +4,5 @@ Bella was here
 aku disini
 
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-[Bintang](https://github.com/bpradana) was here too
+
+## [Bintang](https://github.com/bpradana) was here too
